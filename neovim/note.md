@@ -15,3 +15,5 @@ checkhealth 可以看见 nvim-treesitter 需要的依赖
 6. lualine
 
 7. gitsigns
+
+8.
